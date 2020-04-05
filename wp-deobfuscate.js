@@ -1,5 +1,5 @@
-function run() {
+function(){
  sessionStorage['deobfuscate'] = "true";
-}
- run();
 location.reload();
+	};
+
